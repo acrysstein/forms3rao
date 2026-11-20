@@ -106,24 +106,92 @@ foto: "./assets/img/amizades-escolares.jpg"
 
 const redacoes = [
 
-{ numero: 1, tema: "Insira o tema da redação 1", texto: "" },
-{ numero: 2, tema: "Insira o tema da redação 2", texto: "" },
-{ numero: 3, tema: "Insira o tema da redação 3", texto: "" },
-{ numero: 4, tema: "Insira o tema da redação 4", texto: "" },
-{ numero: 5, tema: "Insira o tema da redação 5", texto: "" },
-{ numero: 6, tema: "Insira o tema da redação 6", texto: "" },
-{ numero: 7, tema: "Insira o tema da redação 7", texto: "" },
-{ numero: 8, tema: "Insira o tema da redação 8", texto: "" },
-{ numero: 9, tema: "Insira o tema da redação 9", texto: "" },
-{ numero: 10, tema: "Insira o tema da redação 10", texto: "" },
-{ numero: 11, tema: "Insira o tema da redação 11", texto: "" },
-{ numero: 12, tema: "Insira o tema da redação 12", texto: "" },
-{ numero: 13, tema: "Insira o tema da redação 13", texto: "" },
-{ numero: 14, tema: "Insira o tema da redação 14", texto: "" },
-{ numero: 15, tema: "Insira o tema da redação 15", texto: "" },
-{ numero: 16, tema: "Insira o tema da redação 16", texto: "" },
-{ numero: 17, tema: "Insira o tema da redação 17", texto: "" }
+{ 
+  numero: 1, 
+  tema: "Impactos sociais e econômicos das mudanças no ciclo hidrológico", 
+  texto: "" 
+},
+  
+{ 
+  numero: 2, 
+  tema: "Insira o tema da redação 2", 
+  texto: "" 
+},
+  
+{ 
+  numero: 3, 
+  tema: "Insira o tema da redação 3", 
+  texto: "" 
+},
 
+{ 
+  numero: 4, 
+  tema: "Insira o tema da redação 4", 
+  texto: "" 
+},
+
+{ numero: 5, 
+ tema: "Insira o tema da redação 5", 
+ texto: "" 
+},
+  
+{ 
+  numero: 6, 
+  tema: "Insira o tema da redação 6", 
+  texto: "" 
+},
+  
+{ 
+  numero: 7, 
+  tema: "Insira o tema da redação 7", 
+  texto: "" 
+},
+  
+{ 
+  numero: 8, 
+  tema: "Insira o tema da redação 8", 
+  texto: "" 
+},
+  
+{ 
+  numero: 9, 
+  tema: "Insira o tema da redação 9", 
+  texto: "" 
+},
+  
+{ 
+  numero: 10, 
+  tema: "Insira o tema da redação 10", 
+  texto: "" 
+},
+  
+{ 
+  numero: 11, 
+  tema: "Insira o tema da redação 11", 
+  texto: "" 
+},
+{ 
+  numero: 12, 
+  tema: "Insira o tema da redação 12", 
+  texto: "" 
+},
+
+{ 
+  numero: 13, 
+  tema: "Insira o tema da redação 13", 
+  texto: "" 
+},
+  
+{ 
+  numero: 14, 
+  tema: "Insira o tema da redação 14", 
+  texto: "" 
+},
+  
+{ 
+  numero: 15, 
+  tema: "Insira o tema da redação 15", 
+  texto: "" },
 ];
 
 

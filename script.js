@@ -109,7 +109,11 @@ const redacoes = [
 { 
   numero: 1, 
   tema: "Impactos sociais e econômicos das mudanças no ciclo hidrológico", 
-  texto: "" 
+  texto: `Atualmente, as mudanças no ciclo hidrológico vem trazendo diversos problemas para a sociedade, principalmente quando acontece seca em alguns lugares e enchente em outros. Isso mostra que o clima está cada vez mais desregulado, e que muitas vezes não existe um preparo adequado para lidar com essas situações. Dessa forma, é possível perceber que esses fenômenos causam impactos sociais e econômicos bem graves.
+ Segundo o pesquisador Carlos Tucci, especialista na área de recursos hídricos, a forma como as cidades são construídas contribui para o aumento das enchentes. Isso porque a urbanização desordenada impede a água de infiltrar no solo, fazendo com que ela se acumule e cause alagamentos. Com isso, muitas pessoas acabam perdendo suas casas e bens materiais, o que gera grandes prejuízos e dificulta a vida de várias famílias. 
+Além disso, a seca também traz consequências muito ruins, principalmente para quem depende da água para trabalhar, como os agricultores. A falta de chuva prejudica a produção de alimentos, podendo causar aumento nos preços e até falta de alguns produtos. Isso acaba afetando toda a população, não só quem vive no campo, mostrando que o problema é mais amplo do que parece. 
+Portanto, é necessário que o governo invista mais em planejamento urbano e em medidas para controlar melhor o uso da água. Também é importante que a população tenha mais consciência sobre a preservação do meio ambiente. Caso contrário, esses problemas vão continuar acontecendo e trazendo cada vez mais prejuízos para a sociedade.
+` 
 },
   
 { 

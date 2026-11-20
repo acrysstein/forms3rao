@@ -19,99 +19,6 @@ e aproveitar os momentos em família.
 Eram experiências simples, mas muito especiais,
 que guardo com carinho até hoje.`,
 
-foto: "./assets/img/infancia1.jpg"
-},
-
-{
-numero: "02",
-titulo: "Ensino Fundamental",
-periodo: "Anos iniciais e anos finais",
-
-texto: `O Ensino Fundamental foi uma etapa importante
-da minha formação.
-
-Aqui ficam registradas minhas lembranças dessa fase,
-como amizades, professores, atividades escolares,
-descobertas e momentos especiais.
-
-Este espaço poderá ser complementado com
-outras recordações.`,
-
-foto: "./assets/img/fundamental.jpg"
-},
-
-{
-numero: "03",
-titulo: "Altas Habilidades",
-periodo: "Colégio Estadual Padre Cláudio Morelli",
-
-texto: `Uma das experiências marcantes que vivi
-no Colégio Estadual Padre Cláudio Morelli
-foi participar das atividades de Altas Habilidades.
-
-Esse período fez parte da minha trajetória escolar
-e proporcionou experiências importantes
-para meu desenvolvimento e aprendizado.`,
-
-foto: "./assets/img/altas-habilidades.jpg"
-},
-
-{
-numero: "04",
-titulo: "Clube de Ciências",
-periodo: "Projeto Sensor de Chuva",
-
-texto: `Outro momento muito especial da minha trajetória
-foi minha participação no Clube de Ciências.
-
-Durante essa experiência, desenvolvemos
-um projeto chamado Sensor de Chuva.
-
-Também tive a oportunidade de participar
-da apresentação do projeto, compartilhando
-nosso trabalho e nossos conhecimentos.
-
-Foi uma experiência que marcou minha vida escolar.`,
-
-foto: "./assets/img/sensor-de-chuva.jpg"
-},
-
-{
-numero: "05",
-titulo: "Terceiro ano",
-periodo: "Conclusão do Ensino Médio",
-
-texto: `Chegar ao terceiro ano representa o encerramento
-de uma etapa muito importante da minha vida.
-
-Depois de tantos anos de experiências,
-aprendizados, desafios e amizades,
-começo a olhar para o futuro e para
-todas as possibilidades que ainda existem.
-
-Levo comigo as lembranças construídas
-durante minha trajetória escolar.`,
-
-foto: "./assets/img/terceiro-ano.jpg"
-}
-
-];
-
-{
-numero: "01",
-titulo: "Minha infância",
-periodo: "As visitas à casa da minha avó",
-
-texto: `Desde pequena, eu sempre ia para Santa Catarina,
-para a casa da minha avó.
-
-Essas visitas fazem parte das minhas primeiras lembranças.
-Eu gostava de pescar, observar os porcos e as galinhas
-e aproveitar os momentos em família.
-
-Eram experiências simples, mas muito especiais,
-que guardo com carinho até hoje.`,
-
 foto: "./assets/img/familia-infancia.jpg"
 },
 
@@ -189,6 +96,7 @@ foto: "./assets/img/amizades-escolares.jpg"
 }
 
 ];
+
 
 // ===================================
 // PORTFÓLIO DAS 17 REDAÇÕES

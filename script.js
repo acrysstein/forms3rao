@@ -415,7 +415,7 @@ areaFoto.appendChild(imagem);
 } else {
 
 areaFoto.textContent =
-"ESPAÇO RESERVADO PARA A REDAÇÃO.";
+"";
 
 }
 

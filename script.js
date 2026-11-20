@@ -118,14 +118,21 @@ Portanto, é necessário que o governo invista mais em planejamento urbano e em 
   
 { 
   numero: 2, 
-  tema: "Insira o tema da redação 2", 
-  texto: "" 
+  tema: "Magreza como padrão imposto pela Sociedade", 
+  texto: `A magreza é frequentemente vista como um padrão imposto pela sociedade, levando muitas pessoas a se sentirem pressionadas a segui-lo. Nesse contexto, como aponta Zygmunt Bauman, vivemos onde há uma constante busca por aceitação social. Com isso, comparação, insegurança e depressão estão cada vez mais frequentes na sociedade. Assim, os indivíduos recorrem a métodos rápidos de emagrecimento, como canetas emagrecedoras, dentre outros.
+            Além disso, a influência das redes sociais intensifica a imposição de padrões estéticos irreais. De acordo com a filósofa Hannah Arendt, a busca por aceitação pode levar indivíduos a abrirem mão da sua individualidade (sua essência). Nesse cenário a exposição constante a corpos considerados "ideais" faz com que muitas pessoas se sintam insatisfeitas com a própria aparência, recorrendo a soluções mais rápidas, como as canetas de emagrecimento. Como consequência, surgem problemas emocionais, como baixa autoestima, ansiedade e até depressão.
+            Portanto, é necessário combater a imposição de padrões estéticos na sociedade. Para isso, cabe às mídias e instituições promoverem a valorização da diversidade dos corpos, por meio de campanhas de conscientização. Assim, será possível reduzir a busca por métodos prejudiciais de emagrecimento e, consequentemente, diminuir os casos de ansiedade, insegurança e depressão.
+`
 },
   
 { 
   numero: 3, 
-  tema: "Insira o tema da redação 3", 
-  texto: "" 
+  tema: "Respeito as Diferenças como caminho para superação de desafios", 
+  texto: ` Na sociedade contemporânea, o respeito às diferenças ainda representa um grande desafio para a superação dos conflitos sociais. O preconceito está presente em diálogos, discussões, olhares e até mesmo nas redes sociais, influenciando negativamente os ideais impostos à população, principalmente entre os jovens. Assim, pequenas diferenças acabam sendo demonizadas e generalizadas, criando padrões que excluem e marginalizam determinados grupos.
+                O respeito à diversidade é indispensável para a construção de uma sociedade justa e igualitária, pois garante dignidade a todos os cidadãos. A discriminação pode ocorrer por diversos motivos, como orientação sexual, crença religiosa, raça, idade, deficiência ou até mesmo por características físicas. Historicamente, esse problema tem raízes profundas. Entre os séculos XV e XVI, por exemplo, surgiram ideologias que contribuíram para a formação de hierarquias raciais, posteriormente normalizadas por parte da sociedade.
+                Mesmo após a abolição da escravidão no Brasil, em 1888, a população negra continuou enfrentando processos de marginalização e injustiça social. Situação semelhante ocorre com outros grupos que também sofrem preconceito e exclusão. Apesar disso, ao longo do tempo, a criação de novas leis e a mobilização social contribuíram para a conquista de direitos fundamentais e para o avanço na luta por igualdade.
+                Em síntese, percebe-se que a intolerância ainda se manifesta de diversas formas na sociedade atual. No entanto, a busca por justiça, respeito e igualdade continua avançando por meio da conscientização, da educação e da luta social, tornando possível a construção de uma sociedade mais inclusiva e respeitosa.
+` 
 },
 
 { 

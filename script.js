@@ -9,7 +9,7 @@ numero: "01",
 titulo: "Minha infância",
 periodo: "As visitas à casa da minha avó",
 
-texto: `Desde pequena, eu sempre ia para Santa Catarina,
+texto: `Desde pequena, eu sempre ia para Porto União, em Santa Catarina,
 para a casa da minha avó.
 
 Essas visitas fazem parte das minhas primeiras lembranças.
@@ -33,9 +33,7 @@ da minha formação.
 Aqui ficam registradas minhas lembranças dessa fase,
 como amizades, professores, atividades escolares,
 descobertas e momentos especiais.
-
-Este espaço poderá ser complementado com
-outras recordações.`,
+`,
 
 foto: "./assets/img/memoria-escolar-fantasia.jpg"
 },

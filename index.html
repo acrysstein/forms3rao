@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Minha trajetória escolar</title>
+
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+<a href="#inicio" class="logo">memórias<span>.</span></a>
+
+<nav id="menu">
+<a href="#sobre">Sobre</a>
+<a href="#memorias">Memórias</a>
+<a href="#redacoes">Redações</a>
+</nav>
+
+<button id="tema" aria-label="Alternar tema">☼</button>
+<button id="menuBtn" class="menu-btn" aria-label="Abrir menu">☰</button>
+</header>
+
+<main>
+
+<!-- INÍCIO -->
+<section class="hero" id="inicio">
+
+<div class="hero-text">
+<p class="subtitulo">UM CICLO, MUITAS HISTÓRIAS</p>
+
+<h1>
+O que vivi
+<em>também me trouxe até aqui.</em>
+</h1>
+
+<p>
+Um espaço para guardar lembranças, aprendizados,
+desafios e momentos especiais da minha trajetória escolar.
+</p>
+
+<a href="#memorias" class="botao">
+Conheça minha história ↓
+</a>
+</div>
+
+<div class="hero-imagem">
+<div class="circulo"></div>
+
+<div class="caderno">
+<span>minha trajetória</span>
+<hr>
+<hr>
+<hr>
+<hr>
+<strong>✳</strong>
+</div>
+</div>
+
+</section>
+
+<!-- SOBRE -->
+<section class="sobre secao" id="sobre">
+
+<div class="identificacao">
+<p class="subtitulo">01 / APRESENTAÇÃO</p>
+</div>
+
+<div>
+<h2>Uma história em construção.</h2>
+
+<p>
+Sou estudante do 3º ano do Ensino Médio no
+Colégio Estadual Padre Cláudio Morelli.
+Ao longo dessa caminhada, vivi experiências
+que contribuíram para minha formação.
+</p>
+
+<p>
+Este site reúne algumas das minhas lembranças,
+experiências escolares e produções desenvolvidas
+durante as aulas de Língua Portuguesa e Redação.
+</p>
+
+<p>
+Mais do que um trabalho de programação,
+este projeto representa o registro de uma fase
+importante da minha vida.
+</p>
+</div>
+
+</section>
+
+<!-- MEMÓRIAS -->
+<section class="memorias secao" id="memorias">
+
+<div class="cabecalho-secao">
+<div>
+<p class="subtitulo">02 / MINHA CAMINHADA</p>
+<h2>Memórias escolares</h2>
+</div>
+
+<p>
+Cada fase trouxe novas experiências,
+descobertas e aprendizados.
+</p>
+</div>
+
+<div class="linha-tempo" id="linhaTempo"></div>
+
+<p class="aviso">
+Clique nos cartões para conhecer cada lembrança.
+</p>
+
+</section>
+
+<!-- REDAÇÕES -->
+<section class="redacoes secao" id="redacoes">
+
+<div class="cabecalho-secao">
+<div>
+<p class="subtitulo">03 / PRODUÇÃO TEXTUAL</p>
+<h2>Portfólio de redações</h2>
+</div>
+
+<p>
+As 17 produções textuais desenvolvidas
+durante as aulas.
+</p>
+</div>
+
+<div class="pesquisa">
+<input
+type="text"
+id="pesquisar"
+placeholder="Pesquisar redação..."
+>
+<span>⌕</span>
+</div>
+
+<p id="contador" class="contador">17 redações</p>
+
+<div class="grade-redacoes" id="gradeRedacoes"></div>
+
+</section>
+
+<!-- FINAL -->
+<section class="final">
+
+<span class="estrela">✳</span>
+
+<p class="subtitulo">FIM DE UM CICLO, COMEÇO DE OUTROS</p>
+
+<h2>
+Levo comigo tudo
+o que aprendi pelo caminho.
+</h2>
+
+<p>
+Cada lembrança faz parte de quem sou
+e de quem ainda quero me tornar.
+</p>
+
+</section>
+
+</main>
+
+<footer>
+<span>Memórias & Redações</span>
+<span>Projeto de Programação Web · 3º ano</span>
+</footer>
+
+<!-- JANELA DE LEITURA -->
+<dialog id="janela">
+
+<button id="fechar" class="fechar">×</button>
+
+<p class="subtitulo" id="categoria"></p>
+
+<h2 id="tituloJanela"></h2>
+
+<p id="textoJanela"></p>
+
+<div class="area-foto" id="areaFoto"></div>
+
+</dialog>
+
+</body>
+</html>

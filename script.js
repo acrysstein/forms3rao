@@ -19,7 +19,7 @@ e aproveitar os momentos em família.
 Eram experiências simples, mas muito especiais,
 que guardo com carinho até hoje.`,
 
-foto: "./assets/img/infancia1.jpg"
+foto: "./assets/img/familia-infancia.jpg"
 },
 
 {
@@ -37,7 +37,7 @@ descobertas e momentos especiais.
 Este espaço poderá ser complementado com
 outras recordações.`,
 
-foto: "./assets/img/fundamental.jpg"
+foto: "./assets/img/memoria-escolar-fantasia.jpg"
 },
 
 {
@@ -73,7 +73,7 @@ nosso trabalho e nossos conhecimentos.
 
 Foi uma experiência que marcou minha vida escolar.`,
 
-foto: "./assets/img/sensor-de-chuva.jpg"
+foto: "./assets/img/clube-ciencias-sensor-de-chuva.jpg"
 },
 
 {
@@ -92,7 +92,7 @@ todas as possibilidades que ainda existem.
 Levo comigo as lembranças construídas
 durante minha trajetória escolar.`,
 
-foto: "./assets/img/terceiro-ano.jpg"
+foto: "./assets/img/amizades-escolares.jpg"
 }
 
 ];
